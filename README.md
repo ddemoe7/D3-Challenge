@@ -17,9 +17,9 @@ You’re tasked with analyzing the current trends shaping people’s lives, as w
   
   ![screencapture-localhost-8000-GitHub-D3-Challenge-2021-07-20-00_44_27](https://user-images.githubusercontent.com/22499952/126263312-42c97041-99cf-4beb-9853-991bf2836de1.png)
 
-<b>After update</b>
-• Graphic responds to user click
-• Can toggle between items
+<b>After update</b> <br>
+• Graphic responds to user click <br>
+• Can toggle between items <br>
 • Axis adjusts to correct numbers based on click 
 
 
