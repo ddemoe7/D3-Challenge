@@ -19,8 +19,8 @@ You’re tasked with analyzing the current trends shaping people’s lives, as w
 
 <b>After update</b> <br>
 • Graphic responds to user click <br>
-• Can toggle between items <br>
-• Axis adjusts to correct numbers based on click 
+• Can toggle between health correlations <br>
+• Axis adjusts to correct scale based on click 
 
 
 https://user-images.githubusercontent.com/22499952/147613907-aa990abd-dec4-426e-9cc6-d9e1eb5d1eb7.mov
